@@ -1,0 +1,32 @@
+.pill{
+    width: 27px;
+    height: 9px;
+    background-color: #E537B9;
+    border-radius: 4.5px;
+}
+
+.navbar{
+    font: Montserrat;
+    font-weight: 600;
+    size: 23px;
+    letter-spacing: 1.5px;
+}
+
+h6{
+    font-weight: 400;
+    color: #858585;
+}
+
+.accordian{
+    margin-top: 40px;
+}
+
+.title-text{
+    color: black;
+    
+}
+
+.contentDiv{
+    margin-bottom: 30px;
+}
+
